@@ -13,6 +13,6 @@ Me llamo Natalia Gutiérrez y estudio en la facultad de Informática de la UAQ
     - Friends
 - Esuchar música
 
-## Mi Mascota
+## Mis Mascotas
 
 ![Foto de mi mascota](galleta.JPG)
