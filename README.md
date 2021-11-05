@@ -16,3 +16,17 @@ Me llamo Natalia Gutiérrez y estudio en la facultad de Informática de la UAQ
 ## Mi Mascota
 
 ![Foto de mi mascota](galleta.JPG)
+
+## Mi quote favorita
+
+> Divide y vencerás
+
+## Código
+
+```javascript
+Console.log("Hello World");
+```
+
+```python
+print("Hello World")
+```
